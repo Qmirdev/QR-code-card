@@ -19,7 +19,7 @@
 
 ### Live Site
 
-<!-- - Live Site: [View](https://???) -->
+- Live Site: [View](https://saffari-dev.github.io/QR-code-card/)
 
 ### Built with
 
