@@ -7,7 +7,7 @@ html,body {
     height: 100%;
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items:center ;
     background-image: url('backgroundd.png');
     background-repeat: no-repeat;
     background-size: cover;
@@ -32,7 +32,7 @@ html,body {
 .card-container .card-items .qr-code img{
     width: 220px;
     border-radius: 20px;
-    transition: 500ms ease;
+    transition: 300ms ease;
 }
 
 .card-container .card-items .title p {
